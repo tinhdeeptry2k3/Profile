@@ -1,0 +1,30 @@
+.content {
+    margin: auto;
+    width: 960px;
+}
+
+.title {
+    color: rgb(255, 22, 22)
+}
+
+.title_2 {
+    color: rgb(0, 128, 55)
+}
+.space{
+    margin-top: 50px;
+}
+
+.image {
+    width: 480px;
+    height: 500px;
+}
+
+.about {
+    float: left;
+    font-weight: 600;
+}
+
+.avatar {
+    width: 240px;
+    height: 350px;
+}
